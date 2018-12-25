@@ -1,7 +1,6 @@
 # Hyperledger Fabric Multihosts Setup with AWS
 
 This repository explains how to setup Hyperledger Fabric multi-hosts network setup using AWS.
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Hyperledger Fabric Multihosts Setup with AWS](#hyperledger-fabric-multihosts-setup-with-aws)
@@ -9,7 +8,7 @@ This repository explains how to setup Hyperledger Fabric multi-hosts network set
 	- [Scenario](#scenario)
 		- [Build an AWS image installed with required applications](#build-an-aws-image-installed-with-required-applications)
 		- [Build a private network](#build-a-private-network)
-			- [Run peer0, 1, 2, 3](#run-peer0-1-2-3)
+			- [Run peer0, 1, 2, and 3](#run-peer0-1-2-and-3)
 			- [Run orderer0](#run-orderer0)
 			- [Launch Kafka-Zookeeper docker container](#launch-kafka-zookeeper-docker-container)
 			- [Create a channel](#create-a-channel)
@@ -19,7 +18,7 @@ This repository explains how to setup Hyperledger Fabric multi-hosts network set
 			- [Query](#query)
 			- [Invoke](#invoke)
 			- [Terminate](#terminate)
-		- [Author](#author)
+	- [Author](#author)
 
 <!-- /TOC -->
 
