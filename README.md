@@ -168,6 +168,8 @@ $ ./3.terminate_instances.sh
 
 ## Author
 If you have any question, please do not hesitate to contact me.
+
 * jk.oh@groundx.xyz
+
 The network setup script files are derived from [Jpub/Hyperledger](https://github.com/Jpub/HyperLedger).
 Modified and improved for this repository.
